@@ -1,3 +1,2 @@
-Hola como estas desde Visual Studio
-
+Ingles es requerido 
 Nueva linea agregada en la rama 1

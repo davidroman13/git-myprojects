@@ -1,14 +1,44 @@
-Soy Ingeniero Industrial con más de 3 años de experiencia en desarrollo de producto, análisis de procesos y control de calidad dentro del sector automotriz.
+# Hola, soy David Román 👋
+## Ingeniero Industrial | QA Software Trainee / Junior
 
-Actualmente, estoy orientando mi carrera hacia el aseguramiento de la calidad de software y la gestión de producto digital, aplicando mi base analítica y mi conocimiento técnico para generar mejoras medibles en rendimiento, eficiencia y calidad.
+Soy **Ingeniero Industrial** con más de 3 años de experiencia en el sector automotriz, enfocado en control de calidad y procesos. Actualmente, estoy transicionando al mundo IT como **QA Manual / Manual Tester**, integrando mi base analítica para garantizar productos digitales de alta eficiencia.
 
-#🔹 Cuento con experiencia en:
+---
 
-Análisis técnico y gestión de proveedores, garantizando calidad y cumplimiento de especificaciones técnicas.
-Optimización de procesos y costos, a través del uso de datos e indicadores de performance.
-Diseño y desarrollo de producto con herramientas CAD (SolidWorks, AutoCAD).
-Implementación de planes de mejora y control de calidad.
+### 🚀 Mi Transición al Tech
+Busco aplicar mi mentalidad de mejora continua y rigor técnico en equipos de producto y calidad de software, aportando una visión estructurada en la detección de fallos y optimización de procesos.
 
-💡 Estoy complementando mi formación con certificaciones en QA testing, Introducción al testing de software, y el uso de herramientas como SQL e Introducción a bases de datos, Java y Postman para pruebas de API e integración.
+### 🛠️ Stack Técnico y Herramientas
 
-Busco una oportunidad remota donde aportar mi enfoque técnico, mi capacidad de análisis y mi mentalidad de mejora continua a equipos de producto, datos o calidad.
+#### **Quality Assurance & Testing** (En formación activa)
+- **Testing:** Metodologías de prueba, Ciclo de vida de pruebas (STLC), Casos de prueba.
+- **Tools:** Postman (API Testing), Jira (Gestión de Bugs).
+- **Languages/DB:** SQL (Bases de datos), Java (Fundamentos).
+
+#### **Ingeniería y Procesos** (Experiencia Sólida)
+- **Análisis:** Optimización de costos y performance basada en datos.
+- **Diseño:** SolidWorks, AutoCAD.
+- **Gestión:** Control de proveedores y cumplimiento de especificaciones técnicas.
+
+---
+
+### 🔹 Experiencia Destacada
+
+- **Desarrollo de Producto y Procesos (Sector Automotriz):** +3 años gestionando indicadores de calidad y planes de mejora.
+- **Control de Calidad:** Implementación de estándares técnicos rigurosos.
+
+---
+
+### 📚 Educación y Certificaciones
+- **Ingeniería Industrial**
+- **QA Testing** - [EducacionIT]
+- **Introducción al Testing de Software**
+- **SQL e Introducción a Bases de Datos**
+- **Análisis Funcional**
+- **Introducción a DevOps**
+  
+---
+
+### 📫 Conecta conmigo:
+- **LinkedIn:** [www.linkedin.com/in/david-ariel-roman]
+- **Email:** [davidroman26@gmail.com]
